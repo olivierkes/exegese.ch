@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ block "title" . }}{{ .Site.Title }} &mdash; {{ .Site.Params.slogan }}{{ end }}</title>
+  <meta name=viewport content="width=device-width,initial-scale=1">
+  {{ $style := resources.Get "css/style.css" |  minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+  {{ with .Description }}
+    <meta name="description" content="{{ . }}">
+  {{ end }}
+  {{/* {{- template "_internal/google_news.html" . -}} 
+  {{- template "_internal/schema.html" . -}}
+  {{- template "_internal/opengraph.html" . -}}
+  {{- template "_internal/twitter_cards.html" . -}} */}}
+  {{ hugo.Generator }}
+</head>
+
+<body>
+  {{ block "header" . }}
+  <header>
+    {{ if .IsHome }}
+    <h1>{{ .Site.Title }}</h1>
+    {{ else }}
+    <nav><a href="/" rel="home">{{ .Site.Title }}</a></nav>
+    {{ end }}
+  </header>
+  {{ end }}
+
+  {{ block "main" . }}
+  {{ end }}
+  {{ block "footer" . }}
+  <footer>
+    <p>Livré sans garantie sous licence CC-by-sa.</p>
+  </footer>
+  {{ end }}
+  {{ template "_internal/google_analytics_async.html" . }}
+</body>
+
+</html>

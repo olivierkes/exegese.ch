@@ -1,0 +1,15 @@
+baseURL: https://exegese.ch/
+defaultContentLanguage: fr
+disableFastRender: true
+languageCode: fr-ch
+title: exegese.ch
+
+disableKinds:
+- taxonomy
+- taxonomyTerm
+- RSS
+- sitemap
+
+params:
+  slogan: Actualité du web protestant romand
+  author: Nicolas Friedli
