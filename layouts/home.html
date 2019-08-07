@@ -1,14 +1,11 @@
-{{ define "title" }}
-{{ .Title }} &mdash; {{ .Site.Title }}
-{{ end }}
-
 {{ define "main" }}
 <main>
   <article>
     <h1>{{ .Title }}</h1>
     {{ .Content }}
+    <h2>Dernières publications</h2>
     <ul>
-      {{ range.Pages }}
+      {{ range first 5 .Pages }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
