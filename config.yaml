@@ -8,7 +8,6 @@ disableKinds:
 - taxonomy
 - taxonomyTerm
 - RSS
-- sitemap
 
 params:
   slogan: Actualité du web protestant romand
