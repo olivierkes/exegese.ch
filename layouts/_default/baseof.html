@@ -6,6 +6,8 @@
   <title>{{ block "title" . }}{{ .Site.Title }} &mdash; {{ .Site.Params.slogan }}{{ end }}</title>
   <meta name=viewport content="width=device-width,initial-scale=1">
   {{ $style := resources.Get "css/style.css" |  minify | fingerprint }}
+  <link rel="preload" href="{{ $style.RelPermalink }}" as="style">
+  <link rel="preload" href="/favicon.ico" as="image">
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
   {{ with .Description }}
     <meta name="description" content="{{ . }}">
