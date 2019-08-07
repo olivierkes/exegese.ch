@@ -13,3 +13,5 @@ disableKinds:
 params:
   slogan: Actualité du web protestant romand
   author: Nicolas Friedli
+  images:
+    - /img/facebook.jpg

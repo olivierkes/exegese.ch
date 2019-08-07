@@ -31,6 +31,7 @@ La liste alphabétique actuelle:
 - dianefriedli.ch
 - dmr.ch
 - eerv.ch
+- emploi-eglise.ch
 - eper.ch
 - epg.ch
 - eren.ch
