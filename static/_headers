@@ -3,6 +3,8 @@
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
     X-Frame-Options: DENY
+    Cache-Control: max-age=86400, public
 
 /css/*
-    
+    Cache-Control: max-age=31536000, public
+
