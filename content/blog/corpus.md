@@ -37,6 +37,7 @@ La liste alphabétique actuelle:
 - eren.ch
 - erkw.ch
 - ethikos.ch
+- evangile-et-liberte.net
 - holygames.ch
 - jeanmarcleresche.ch
 - jecherchedieu.ch
@@ -46,7 +47,9 @@ La liste alphabétique actuelle:
 - mafemmeestpasteure.ch
 - marcpernot.net
 - mediaspro.ch
+- moser-felix.ch
 - musee-reforme.ch
+- museeprotestant.org
 - olivierbauer.org
 - painpourleprochain.ch
 - philippegolaz.ch
@@ -55,5 +58,7 @@ La liste alphabétique actuelle:
 - questiondieu.com
 - ref-fr.ch
 - refbejuso.ch
+- reforme.net
 - reformes.ch
+- regardsprotestants.com
 - theologeek.ch
