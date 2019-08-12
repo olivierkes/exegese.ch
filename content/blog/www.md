@@ -12,5 +12,12 @@ Il est ainsi possible de ne pas dupliquer les pages.
 C'est un conseil SEO.
 
 
-Analyse https dans un prochain épisode...
+## Sites utilisant avec www
 
+## Site exclusivement sans www
+
+## Site avec et sans www
+
+### Redirection automatique avec www
+
+### Redirection automatique sans www
