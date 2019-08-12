@@ -8,7 +8,7 @@
   {{ $style := resources.Get "css/style.css" |  minify | fingerprint }}
   <link rel="preload" href="{{ $style.RelPermalink }}" as="style">
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-  <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i|Roboto:400,700&display=swap" rel="stylesheet">
   {{ with .Description }}
     <meta name="description" content="{{ . }}">
   {{ end }}
