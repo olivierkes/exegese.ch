@@ -1,5 +1,5 @@
 ---
-title: Avec ou sans www ? État des lieux protestant romand
+title: Avec ou sans www? État des lieux protestant romand
 date: 2019-08-09
 description: Un site web devrait fonctionner avec ou sans sous-domaine www. Que font les sites protestants romands des bonnes pratiques Opquast?
 ---
