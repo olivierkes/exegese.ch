@@ -66,7 +66,7 @@ Ce n'est pas le cas.
 ### Sans redirection automatique
 
 Les quelques sites qui n'imposent pas de redirection (avec ou sans www) devraient envisager d'en créer une, pour des questions de référencement.
-Il est possible d'eviter des doublets qui n'aident pas les moteurs de recherche.
+Il est possible d'éviter des doublets qui n'aident pas les moteurs de recherche.
 Mais ils fonctionnent parfaitement ainsi.
 
 - contactgps.ch
@@ -80,7 +80,7 @@ Mais ils fonctionnent parfaitement ainsi.
 ## Changer de stratégie
 
 Si vous souhaitez passer au www systématique ou le retirer partout, c'est possible.
-Mais comme aucune tendace claire ne se dégage, difficile de savoir dans quelle direction aller.
+Mais comme aucune tendance claire ne se dégage, difficile de savoir dans quelle direction aller.
 
 Attention, une telle correction, pour être bien réalisée, doit aussi porter sur tous les liens internes du site.
 Et là, la manœuvre peut devenir plus risquée.
