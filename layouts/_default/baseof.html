@@ -5,9 +5,7 @@
   <meta charset="utf-8">
   <title>{{ block "title" . }}{{ .Site.Title }} &mdash; {{ .Site.Params.slogan }}{{ end }}</title>
   <meta name=viewport content="width=device-width,initial-scale=1">
-  {{ $style := resources.Get "css/style.css" |  minify | fingerprint }}
-  <link rel="preload" href="{{ $style.RelPermalink }}" as="style">
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  {{ partial "style.html" }}
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i|Roboto:400,700&display=swap" rel="stylesheet">
   {{ with .Description }}
     <meta name="description" content="{{ . }}">
