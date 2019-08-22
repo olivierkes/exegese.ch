@@ -15,7 +15,7 @@ Les résultats sont présentés de la manière suivante:
 - Nom de domaine du site  
 **Titre de la page d'accueil**  
 Description  
-*commentaire éventuel*
+*Commentaire éventuel*
 
 Les résultats donnent des indices, non des vérités.
 Il n'y a pas de solution juste; les sites qui sont très bons pourraient utiliser d'autres titres et descriptions.
@@ -156,11 +156,11 @@ Textes notoirement trop cours, confusion entre titre et description, erreurs de 
   *Scorie typographique et titre insuffisant.*
 - moser-felix.ch  
   **Biographie**  
-  Le site moser-felix.ch présente une brève biographie de ce professeur de théologie pratique, aujourd’hui professeur émérite de l’université de Neuchâtel. Une bibliographie ainsi que des ouvrages (livres et articles de l’auteur) y sont disponibles en libre accès.
+  Le site moser-felix.ch présente une brève biographie de ce professeur de théologie pratique, aujourd’hui professeur émérite de l’université de Neuchâtel. Une bibliographie ainsi que des ouvrages (livres et articles de l’auteur) y sont disponibles en libre accès.  
   *Titre non explicite, description peu précise.*
 - musee-reforme.ch  
   **| Musée international de la Réforme**  
-  [pas de description]
+  [pas de description]  
   *Scorie typographique dans le titre, qui devrait au moins citer Genève.*
 - museeprotestant.org  
   **Accueil - Musée protestant**  
@@ -170,7 +170,7 @@ Textes notoirement trop cours, confusion entre titre et description, erreurs de 
   [pas de description]
 - protestinfo.ch  
   **protestinfo**  
-  Les protestants réformés de Suisse romande
+  Les protestants réformés de Suisse romande  
   *Titre insuffisant (p.ex. agence de presse) et description inadaptée.*
 - questiondieu.com  
   **Accueil | questiondieu.com**  
@@ -184,7 +184,7 @@ Textes notoirement trop cours, confusion entre titre et description, erreurs de 
   [pas de description]
 - reformes.ch  
   **Réformés.ch**  
-  Les protestants réformés de Suisse romande
+  Les protestants réformés de Suisse romande  
   *Pas de mention de site d'actualité, pas de mention du journal.*
 - regardsprotestants.com  
   **Regards protestants - L'actualité vue par les médias prostestants**  
