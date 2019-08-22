@@ -1,10 +1,10 @@
 ---
-title: Titre et description de pages d'accueil
+title: Titre et description des pages d'accueil
 date: 2019-08-22
 description: Les bonnes pratiques de qualité web et de référencement invitent à des titres précis et des descriptions de pages utiles. On fait le point?
 ---
 
-Les bonnes pratiques de [qualité web](https://checklists.opquast.com/fr/qualiteweb/) et de [référencement](https://checklists.opquast.com/fr/seo/) (SEO) donne des pistes pour la rédaction correcte des titres de pages et de leurs descriptions:
+Les bonnes pratiques de [qualité web](https://checklists.opquast.com/fr/qualiteweb/) et de [référencement](https://checklists.opquast.com/fr/seo/) (SEO) donnent des pistes pour la rédaction correcte des titres de pages et de leurs descriptions:
 
 - [Le titre de chaque page permet d'identifier son contenu](https://checklists.opquast.com/fr/qualiteweb/le-titre-de-chaque-page-permet-didentifier-son-contenu) afin de permettre, notamment, un affichage correct dans les moteurs de recherche
 - [Le contenu de l'élément meta description est une phrase significative et non une liste de mots clefs](https://checklists.opquast.com/fr/seo/le-contenu-de-lelement-meta-description-est-une-phrase-significative-et-non-une-liste-de-mots-clefs), notamment pour encourager les internautes à consulter le site
