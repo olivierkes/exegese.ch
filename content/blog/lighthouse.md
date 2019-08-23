@@ -75,7 +75,6 @@ Regardez, comparez, testez!
 
 ## Détails techniques
 
-- Le test a été réalisé ce mon ordinateur personnel, le 23 août 2019 à 11h00. Votre connexion Internet sera plus rapide ou plus lente, vous vous situez dans une autre région du monde, etc.
-- Les URL du [corpus](/blog/corpus/) ont été triées alphabétiquement. Les résultats sont présentés dans cet ordre.
+- Le test a été réalisé sur mon ordinateur personnel, le 23 août 2019 à 11h00. Votre connexion Internet sera plus rapide ou plus lente, vous vous situez dans une autre région du monde, etc.
 - Les redirections ont été prises en compte avant le test, en utilisant [httpstatus](https://httpstatus.io/). Donc [avec ou sans www](/blog/www/) et [avec ou sans `https`](/blog/https/) selon les réglages du site.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) a été utilisé en [ligne de commande](https://www.npmjs.com/package/lighthouse), avec son outil de [traîtement par lots](https://www.npmjs.com/package/lighthouse-batch).
