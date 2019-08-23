@@ -39,7 +39,7 @@ Enfin, l'image de compétence, de sécurité joue à plein.
 En passant mon site en `https`, je montre ma compétence technique à mes utilisateurs et à mes mandataires.
 Même si, dans certains cas, c'est peu utile.
 
-Certaines voix critique s'élèvent contre le `https` partout.
+Certaines voix critiques s'élèvent contre le `https` partout.
 C'est par exemple le cas de l'expert Karl Dubost qui trouve que nous basculons vers un [système inutilement complexe](http://www.la-grange.net/2018/02/09/chimere-https).
 Une critique à lire avant d'installer à tout prix `https`.
 
