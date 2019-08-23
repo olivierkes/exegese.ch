@@ -39,7 +39,7 @@ Enfin, l'image de compétence, de sécurité joue à plein.
 En passant mon site en `https`, je montre ma compétence technique à mes utilisateurs et à mes mandataires.
 Même si, dans certains cas, c'est peu utile.
 
-Certaines voix critique s'élèvent contre le `https` partout.
+Certaines voix critiques s'élèvent contre le `https` partout.
 C'est par exemple le cas de l'expert Karl Dubost qui trouve que nous basculons vers un [système inutilement complexe](http://www.la-grange.net/2018/02/09/chimere-https).
 Une critique à lire avant d'installer à tout prix `https`.
 
@@ -128,6 +128,6 @@ Attention au passage en `https`, puis à l'entête `hsts`, puis au *preload* `hs
 1. Si votre site fonctionne en `http` et `https` sans erreurs durant un certain temps, il me semble logique de forcer la redirection vers `https`.
 2. La redirection vers `https` est facile à mettre en oeuvre (mais pas sans risques): changement d'adresse du site dans WordPress, extensions diverses ou redirection `.htaccess`. Chez [Infomaniak](https://www.infomaniak.com/fr/support/faq/1961/rediriger-tous-les-visiteurs-sur-le-site-avec-https-ssl), c'est bien documenté.
 3. Lorsque le site envoie l'entête `hsts` et qu'il est consulté en `https`, il est compliqué pour le navigateur qui effectué la visite de revenir en arrière. Encore une fois, [Infomaniak](https://www.infomaniak.com/fr/support/faq/2133/desactiver-ou-personnaliser-le-hsts-dun-site-webhebergement) documente bien.
-4. Si le site fonctionne bien avec `https` et `hsts`, il est possible de passer en *preload*. Ce qui signifie que le site est d'office chargé en `https`, sans redirection. C'est gravé dans le navigateur! C'est [hstspreload](https://hstspreload.org/?domain=exegese.ch) est l'outil qui permet d'activer la chose, comme c'est le cas d'exegese.ch.
+4. Si le site fonctionne bien avec `https` et `hsts`, il est possible de passer en *preload*. Ce qui signifie que le site est d'office chargé en `https`, sans redirection. C'est gravé dans le navigateur! [hstspreload](https://hstspreload.org/?domain=exegese.ch) est l'outil qui permet d'activer la chose, comme c'est le cas d'exegese.ch.
 
 Je reçois volontiers vos questions et remarques par [mail](/contact/).
