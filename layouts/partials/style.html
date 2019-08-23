@@ -82,5 +82,23 @@ html {
   
   table {
     font-variant-numeric: lining-nums tabular-nums;
+    text-align: right;
+    margin: auto;
+    width: 100%;
   }
+
+  td, th {
+    padding: .1em 1em;
+    word-wrap:break-word;
+    overflow-wrap: break-word;
+  }
+
+  tr:nth-child(odd) {
+    background: hsl({{$color}}, 70%, 85%);
+  }
+
+  tr:hover {
+    background: hsl({{$color}}, 70%, 75%);
+  }
+
 </style>
